@@ -387,7 +387,7 @@ export default function ProfilePage() {
                     onClick={() => setEditForm({ ...editForm, gender: "male" })}
                     variant={editForm.gender === "male" ? "gradient" : "outline"}
                     size="sm"
-                    className="h-[36px] sm:h-[40px] px-4 rounded-[8px] text-[13px] sm:text-[14px] flex-1 sm:flex-none"
+                    className="h-[36px] sm:h-[40px] px-4 rounded-[8px] text-[13px] sm:text-[14px] flex-1 sm:flex-none text-black"
                   >
                     ♂ Male
                   </Button>
@@ -395,7 +395,7 @@ export default function ProfilePage() {
                     onClick={() => setEditForm({ ...editForm, gender: "female" })}
                     variant={editForm.gender === "female" ? "gradient" : "outline"}
                     size="sm"
-                    className="h-[36px] sm:h-[40px] px-4 rounded-[8px] text-[13px] sm:text-[14px] flex-1 sm:flex-none"
+                    className="h-[36px] sm:h-[40px] px-4 rounded-[8px] text-[13px] sm:text-[14px] flex-1 sm:flex-none text-black"
                   >
                     ♀ Female
                   </Button>
@@ -446,7 +446,7 @@ export default function ProfilePage() {
                     onClick={() => handleHeightUnitChange("cm")}
                     variant={heightUnit === "cm" ? "gradient" : "outline"}
                     size="sm"
-                    className="h-[36px] sm:h-[40px] px-3 rounded-[8px] text-[11px] sm:text-[12px] flex-shrink-0"
+                    className="h-[36px] sm:h-[40px] px-3 rounded-[8px] text-[11px] sm:text-[12px] flex-shrink-0 text-black"
                   >
                     cm
                   </Button>
@@ -454,7 +454,7 @@ export default function ProfilePage() {
                     onClick={() => handleHeightUnitChange("ft")}
                     variant={heightUnit === "ft" ? "gradient" : "outline"}
                     size="sm"
-                    className="h-[36px] sm:h-[40px] px-3 rounded-[8px] text-[11px] sm:text-[12px] flex-shrink-0"
+                    className="h-[36px] sm:h-[40px] px-3 rounded-[8px] text-[11px] sm:text-[12px] flex-shrink-0 text-black"
                   >
                     ft/in
                   </Button>
