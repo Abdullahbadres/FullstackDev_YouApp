@@ -2,10 +2,6 @@
 
 A beautiful, responsive mobile-first dating profile application built with Next.js 14, TypeScript, and Tailwind CSS. Features include user authentication, profile management, interest matching, and zodiac compatibility.
 
-![YouApp Preview](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
 ## ✨ Features
 
 - 🔐 **User Authentication** - Secure login/register system
@@ -15,7 +11,7 @@ A beautiful, responsive mobile-first dating profile application built with Next.
 - ⭐ **Zodiac Compatibility** - Automatic horoscope and zodiac calculation
 - 📱 **Mobile-First Design** - Responsive across all devices
 - 🎨 **Beautiful Gradients** - Modern UI with custom color schemes
-- 🌙 **Dark Theme** - Elegant dark mode interface
+- 🌙 **Elegant Theme** - Required elegant theme interface
 - 📏 **Flexible Measurements** - Support for cm/ft+inches and decimal weights
 - 🔄 **Real-time Updates** - Instant profile updates and data persistence
 
@@ -271,7 +267,7 @@ The app integrates with the YouApp API through proxy routes:
 - **Adaptive Layout** - Adjusts to different screen sizes
 - **Touch-Friendly** - Proper touch targets and gestures
 
-## 🚀 Deployment
+## 🚀 Deployment https://testyouapp.vercel.app
 
 ### Vercel (Recommended)
 
@@ -340,12 +336,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help, please:
 
-1. Check the [Issues](https://github.com/yourusername/youapp/issues) page
+1. Check the [Issues]((https://github.com/Abdullahbadres/FullstackDev_YouApp)) page
 2. Create a new issue if needed
 3. Contact the maintainers
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by [Abdul]**
 
 ⭐ **Star this repo if you find it helpful!**
